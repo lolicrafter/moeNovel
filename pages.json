@@ -1,0 +1,51 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "萌物书屋"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "萌物书屋",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"list": [
+			{
+				"iconPath": "static/c1.png",
+				"selectedIconPath": "static/c1.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "static/c2.png",
+				"selectedIconPath": "static/c2.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "static/c2.png",
+				"selectedIconPath": "static/c2.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "static/c2.png",
+				"selectedIconPath": "static/c2.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "static/c2.png",
+				"selectedIconPath": "static/c2.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			}
+		]
+	}
+}
